@@ -13,7 +13,7 @@ def nefesh_btl(nefesh):
     -------
     Float
         The standardised number of persons in the household, 
-        according to National Security Institue and the Central Bureau of Statistics definition.
+        according to National Insurance Institute and the Central Bureau of Statistics definition.
     
     Required libraries
     ------------------
